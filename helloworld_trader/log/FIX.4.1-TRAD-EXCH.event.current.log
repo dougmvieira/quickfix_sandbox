@@ -1,0 +1,221 @@
+20160610-14:03:36.581 : Created session
+20160610-14:03:36.581 : Connecting to 127.0.0.1 on port 61234
+20160610-14:03:36.582 : Initiated logon request
+20160610-14:03:36.582 : Received logon response
+20160610-14:03:36.583 : Received ResendRequest FROM: 11 TO: 999999
+20160610-14:03:36.583 : Resending Message: 11
+20160610-14:03:36.583 : Sent SequenceReset TO: 13
+20160610-14:03:36.608 : Socket Error: Connection reset by peer.
+20160610-14:03:36.608 : Disconnecting
+20160610-14:04:08.366 : Created session
+20160610-14:04:08.366 : Connecting to 127.0.0.1 on port 61234
+20160610-14:04:08.366 : Initiated logon request
+20160610-14:04:08.367 : Received logon response
+20160610-14:04:08.367 : Received ResendRequest FROM: 11 TO: 999999
+20160610-14:04:08.367 : Resending Message: 11
+20160610-14:04:08.367 : Sent SequenceReset TO: 14
+20160610-14:04:08.399 : Socket Error: Connection reset by peer.
+20160610-14:04:08.400 : Disconnecting
+20160610-14:13:01.574 : Created session
+20160610-14:13:01.575 : Connecting to 127.0.0.1 on port 61234
+20160610-14:13:01.575 : Initiated logon request
+20160610-14:13:01.575 : Received logon response
+20160610-14:13:01.576 : Received ResendRequest FROM: 11 TO: 999999
+20160610-14:13:01.576 : Resending Message: 11
+20160610-14:13:01.576 : Sent SequenceReset TO: 15
+20160610-14:13:01.607 : Socket Error: Connection reset by peer.
+20160610-14:13:01.607 : Disconnecting
+20160610-14:13:32.816 : Created session
+20160610-14:13:32.816 : Connecting to 127.0.0.1 on port 61234
+20160610-14:13:32.817 : Initiated logon request
+20160610-14:13:32.817 : Received logon response
+20160610-14:13:32.817 : Received ResendRequest FROM: 11 TO: 999999
+20160610-14:13:32.817 : Resending Message: 11
+20160610-14:13:32.818 : Sent SequenceReset TO: 16
+20160610-14:13:33.817 : Initiated logout request
+20160610-14:13:33.818 : Received logout response
+20160610-14:13:33.818 : Disconnecting
+20160610-14:15:56.607 : Created session
+20160610-14:15:56.607 : Connecting to 127.0.0.1 on port 61234
+20160610-14:15:56.607 : Initiated logon request
+20160610-14:15:56.608 : Received logon response
+20160610-14:15:57.608 : Initiated logout request
+20160610-14:15:57.609 : Received logout response
+20160610-14:15:57.609 : Disconnecting
+20160610-14:16:47.668 : Created session
+20160610-14:16:47.669 : Connecting to 127.0.0.1 on port 61234
+20160610-14:16:47.669 : Initiated logon request
+20160610-14:16:47.670 : Received logon response
+20160610-14:16:48.670 : Initiated logout request
+20160610-14:16:48.671 : Received logout response
+20160610-14:16:48.671 : Disconnecting
+20160610-14:17:51.935 : Created session
+20160610-14:17:51.935 : Connecting to 127.0.0.1 on port 61234
+20160610-14:17:51.936 : Initiated logon request
+20160610-14:17:51.936 : Received logon response
+20160610-14:17:52.937 : Initiated logout request
+20160610-14:17:52.937 : Received logout response
+20160610-14:17:52.937 : Disconnecting
+20160610-14:19:13.877 : Created session
+20160610-14:19:13.877 : Connecting to 127.0.0.1 on port 61234
+20160610-14:19:13.878 : Initiated logon request
+20160610-14:19:13.878 : Received logon response
+20160610-14:19:14.879 : Initiated logout request
+20160610-14:19:14.879 : Received logout response
+20160610-14:19:14.879 : Disconnecting
+20160610-14:19:55.580 : Created session
+20160610-14:19:55.580 : Connecting to 127.0.0.1 on port 61234
+20160610-14:19:55.581 : Initiated logon request
+20160610-14:19:55.581 : Received logon response
+20160610-14:19:56.581 : Initiated logout request
+20160610-14:19:56.582 : Received logout response
+20160610-14:19:56.582 : Disconnecting
+20160610-16:00:16.969 : Created session
+20160610-16:00:16.969 : Connecting to 127.0.0.1 on port 61234
+20160610-16:00:16.970 : Initiated logon request
+20160610-16:00:16.970 : Received logon response
+20160610-16:00:17.100 : Socket Error: Connection reset by peer.
+20160610-16:00:17.100 : Disconnecting
+20160610-16:02:03.218 : Created session
+20160610-16:02:03.218 : Connecting to 127.0.0.1 on port 61234
+20160610-16:02:03.219 : Initiated logon request
+20160610-16:02:03.219 : Received logon response
+20160610-16:02:03.219 : Received ResendRequest FROM: 29 TO: 999999
+20160610-16:02:03.219 : Resending Message: 29
+20160610-16:02:03.219 : Sent SequenceReset TO: 31
+20160610-16:02:03.241 : Socket Error: Connection reset by peer.
+20160610-16:02:03.241 : Disconnecting
+20160610-16:03:02.126 : Created session
+20160610-16:03:02.126 : Connecting to 127.0.0.1 on port 61234
+20160610-16:03:02.127 : Initiated logon request
+20160610-16:03:02.127 : Received logon response
+20160610-16:03:02.127 : Received ResendRequest FROM: 29 TO: 999999
+20160610-16:03:02.127 : Resending Message: 29
+20160610-16:03:02.128 : Sent SequenceReset TO: 31
+20160610-16:03:02.128 : Resending Message: 31
+20160610-16:03:02.128 : Sent SequenceReset TO: 33
+20160610-16:03:02.153 : Socket Error: Connection reset by peer.
+20160610-16:03:02.153 : Disconnecting
+20160610-16:03:42.098 : Created session
+20160610-16:03:42.098 : Connecting to 127.0.0.1 on port 61234
+20160610-16:03:42.099 : Initiated logon request
+20160610-16:03:42.099 : Received logon response
+20160610-16:03:42.099 : Received ResendRequest FROM: 29 TO: 999999
+20160610-16:03:42.099 : Resending Message: 29
+20160610-16:03:42.100 : Sent SequenceReset TO: 31
+20160610-16:03:42.100 : Resending Message: 31
+20160610-16:03:42.100 : Sent SequenceReset TO: 33
+20160610-16:03:42.100 : Resending Message: 33
+20160610-16:03:42.100 : Sent SequenceReset TO: 35
+20160610-16:03:42.131 : Socket Error: Connection reset by peer.
+20160610-16:03:42.131 : Disconnecting
+20160610-16:04:04.070 : Created session
+20160610-16:04:04.071 : Connecting to 127.0.0.1 on port 61234
+20160610-16:04:04.071 : Initiated logon request
+20160610-16:04:04.071 : Received logon response
+20160610-16:04:04.071 : Received ResendRequest FROM: 29 TO: 999999
+20160610-16:04:04.072 : Resending Message: 29
+20160610-16:04:04.072 : Sent SequenceReset TO: 31
+20160610-16:04:04.072 : Resending Message: 31
+20160610-16:04:04.072 : Sent SequenceReset TO: 33
+20160610-16:04:04.072 : Resending Message: 33
+20160610-16:04:04.072 : Sent SequenceReset TO: 35
+20160610-16:04:04.072 : Resending Message: 35
+20160610-16:04:04.072 : Sent SequenceReset TO: 37
+20160610-16:04:04.096 : Socket Error: Connection reset by peer.
+20160610-16:04:04.096 : Disconnecting
+20160610-16:04:22.682 : Created session
+20160610-16:04:22.682 : Connecting to 127.0.0.1 on port 61234
+20160610-16:04:22.682 : Initiated logon request
+20160610-16:04:22.683 : Received logon response
+20160610-16:04:22.683 : Received ResendRequest FROM: 29 TO: 999999
+20160610-16:04:22.683 : Resending Message: 29
+20160610-16:04:22.683 : Sent SequenceReset TO: 31
+20160610-16:04:22.683 : Resending Message: 31
+20160610-16:04:22.683 : Sent SequenceReset TO: 33
+20160610-16:04:22.683 : Resending Message: 33
+20160610-16:04:22.684 : Sent SequenceReset TO: 35
+20160610-16:04:22.684 : Resending Message: 35
+20160610-16:04:22.684 : Sent SequenceReset TO: 37
+20160610-16:04:22.684 : Resending Message: 37
+20160610-16:04:22.684 : Sent SequenceReset TO: 39
+20160610-16:04:22.718 : Socket Error: Connection reset by peer.
+20160610-16:04:22.718 : Disconnecting
+20160610-16:04:47.415 : Created session
+20160610-16:04:47.415 : Connecting to 127.0.0.1 on port 61234
+20160610-16:04:47.416 : Initiated logon request
+20160610-16:04:47.416 : Received logon response
+20160610-16:04:47.416 : Received ResendRequest FROM: 29 TO: 999999
+20160610-16:04:47.417 : Resending Message: 29
+20160610-16:04:47.417 : Sent SequenceReset TO: 31
+20160610-16:04:47.417 : Resending Message: 31
+20160610-16:04:47.417 : Sent SequenceReset TO: 33
+20160610-16:04:47.417 : Resending Message: 33
+20160610-16:04:47.417 : Sent SequenceReset TO: 35
+20160610-16:04:47.417 : Resending Message: 35
+20160610-16:04:47.417 : Sent SequenceReset TO: 37
+20160610-16:04:47.417 : Resending Message: 37
+20160610-16:04:47.417 : Sent SequenceReset TO: 39
+20160610-16:04:47.417 : Resending Message: 39
+20160610-16:04:47.418 : Sent SequenceReset TO: 41
+20160610-16:04:48.417 : Initiated logout request
+20160610-16:04:48.418 : Received logout response
+20160610-16:04:48.418 : Disconnecting
+20160610-16:06:23.485 : Created session
+20160610-16:06:23.485 : Connecting to 127.0.0.1 on port 61234
+20160610-16:06:23.486 : Initiated logon request
+20160610-16:06:23.486 : Received logon response
+20160610-16:06:23.609 : Socket Error: Connection reset by peer.
+20160610-16:06:23.609 : Disconnecting
+20160610-16:06:49.724 : Created session
+20160610-16:06:49.724 : Connecting to 127.0.0.1 on port 61234
+20160610-16:06:49.725 : Initiated logon request
+20160610-16:06:49.725 : Received logon response
+20160610-16:06:49.725 : Received ResendRequest FROM: 44 TO: 999999
+20160610-16:06:49.725 : Resending Message: 44
+20160610-16:06:49.725 : Sent SequenceReset TO: 46
+20160610-16:06:50.725 : Initiated logout request
+20160610-16:06:50.726 : Received logout response
+20160610-16:06:50.726 : Disconnecting
+20160610-16:14:32.770 : Created session
+20160610-16:14:32.771 : Connecting to 127.0.0.1 on port 61234
+20160610-16:14:32.771 : Initiated logon request
+20160610-16:14:32.772 : Received logon response
+20160610-16:14:33.772 : Initiated logout request
+20160610-16:14:33.772 : Received logout response
+20160610-16:14:33.772 : Disconnecting
+20160610-16:15:01.104 : Created session
+20160610-16:15:01.105 : Connecting to 127.0.0.1 on port 61234
+20160610-16:15:01.105 : Initiated logon request
+20160610-16:15:01.105 : Received logon response
+20160610-16:15:02.106 : Initiated logout request
+20160610-16:15:02.106 : Received logout response
+20160610-16:15:02.106 : Disconnecting
+20160610-16:15:34.854 : Created session
+20160610-16:15:34.854 : Connecting to 127.0.0.1 on port 61234
+20160610-16:15:34.855 : Initiated logon request
+20160610-16:15:34.855 : Received logon response
+20160610-16:15:35.855 : Initiated logout request
+20160610-16:15:35.856 : Received logout response
+20160610-16:15:35.856 : Disconnecting
+20160610-16:17:18.606 : Created session
+20160610-16:17:18.606 : Connecting to 127.0.0.1 on port 61234
+20160610-16:17:18.607 : Initiated logon request
+20160610-16:17:18.607 : Received logon response
+20160610-16:17:19.607 : Initiated logout request
+20160610-16:17:19.608 : Received logout response
+20160610-16:17:19.608 : Disconnecting
+20160610-16:19:00.661 : Created session
+20160610-16:19:00.661 : Connecting to 127.0.0.1 on port 61234
+20160610-16:19:00.662 : Initiated logon request
+20160610-16:19:00.662 : Received logon response
+20160610-16:19:01.662 : Initiated logout request
+20160610-16:19:01.663 : Received logout response
+20160610-16:19:01.663 : Disconnecting
+20160610-16:19:47.776 : Created session
+20160610-16:19:47.776 : Connecting to 127.0.0.1 on port 61234
+20160610-16:19:47.777 : Initiated logon request
+20160610-16:19:47.777 : Received logon response
+20160610-16:19:48.777 : Initiated logout request
+20160610-16:19:48.778 : Received logout response
+20160610-16:19:48.778 : Disconnecting

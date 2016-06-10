@@ -1,0 +1,189 @@
+20160610-13:52:39.594 : Created session
+20160610-13:52:41.848 : Received logon request
+20160610-13:52:41.849 : Responding to logon request
+20160610-13:52:41.849 : Socket Error: Connection reset by peer.
+20160610-13:52:41.849 : Disconnecting
+20160610-13:55:02.725 : Created session
+20160610-13:55:04.215 : Received logon request
+20160610-13:55:04.216 : Responding to logon request
+20160610-13:55:04.216 : MsgSeqNum too high, expecting 2 but received 3
+20160610-13:55:04.216 : Sent ResendRequest FROM: 2 TO: 999999
+20160610-13:55:04.231 : Socket Error: Connection reset by peer.
+20160610-13:55:04.231 : Disconnecting
+20160610-13:55:47.870 : Created session
+20160610-13:55:49.100 : Received logon request
+20160610-13:55:49.100 : Responding to logon request
+20160610-13:55:49.100 : MsgSeqNum too high, expecting 2 but received 4
+20160610-13:55:49.100 : Sent ResendRequest FROM: 2 TO: 999999
+20160610-13:55:49.112 : Socket Error: Connection reset by peer.
+20160610-13:55:49.112 : Disconnecting
+20160610-13:57:23.303 : Created session
+20160610-13:57:24.701 : Received logon request
+20160610-13:57:24.701 : Responding to logon request
+20160610-13:57:24.701 : MsgSeqNum too high, expecting 2 but received 7
+20160610-13:57:24.701 : Sent ResendRequest FROM: 2 TO: 999999
+20160610-13:57:24.701 : Received ResendRequest FROM: 1 TO: 999999
+20160610-13:57:24.701 : Sent SequenceReset TO: 8
+20160610-13:57:24.714 : Socket Error: Connection reset by peer.
+20160610-13:57:24.714 : Disconnecting
+20160610-13:58:19.194 : Received logon request
+20160610-13:58:19.194 : Responding to logon request
+20160610-13:58:19.194 : MsgSeqNum too high, expecting 2 but received 9
+20160610-13:58:19.194 : Sent ResendRequest FROM: 2 TO: 999999
+20160610-13:58:19.194 : Received ResendRequest FROM: 1 TO: 999999
+20160610-13:58:19.194 : Sent SequenceReset TO: 10
+20160610-13:58:19.195 : MsgSeqNum too high, expecting 2 but received 11
+20160610-13:58:19.195 : Already sent ResendRequest FROM: 2 TO: 8.  Not sending another.
+20160610-13:58:19.234 : Received SequenceReset FROM: 2 TO: 11
+20160610-13:58:19.234 : Processing QUEUED message: 11
+20160610-13:58:19.234 : ResendRequest for messages FROM: 2 TO: 8 has been satisfied.
+20160610-14:03:34.680 : Created session
+20160610-14:03:36.582 : Received logon request
+20160610-14:03:36.582 : Responding to logon request
+20160610-14:03:36.582 : MsgSeqNum too high, expecting 11 but received 12
+20160610-14:03:36.582 : Sent ResendRequest FROM: 11 TO: 999999
+20160610-14:03:36.583 : ResendRequest for messages FROM: 11 TO: 11 has been satisfied.
+20160610-14:04:07.500 : Created session
+20160610-14:04:08.367 : Received logon request
+20160610-14:04:08.367 : Responding to logon request
+20160610-14:04:08.367 : MsgSeqNum too high, expecting 11 but received 13
+20160610-14:04:08.367 : Sent ResendRequest FROM: 11 TO: 999999
+20160610-14:13:00.068 : Created session
+20160610-14:13:01.575 : Received logon request
+20160610-14:13:01.575 : Responding to logon request
+20160610-14:13:01.575 : MsgSeqNum too high, expecting 11 but received 14
+20160610-14:13:01.576 : Sent ResendRequest FROM: 11 TO: 999999
+20160610-14:13:31.383 : Created session
+20160610-14:13:32.817 : Received logon request
+20160610-14:13:32.817 : Responding to logon request
+20160610-14:13:32.817 : MsgSeqNum too high, expecting 11 but received 15
+20160610-14:13:32.817 : Sent ResendRequest FROM: 11 TO: 999999
+20160610-14:13:32.859 : Received SequenceReset FROM: 12 TO: 16
+20160610-14:13:33.818 : Received logout request
+20160610-14:13:33.818 : Sending logout response
+20160610-14:13:33.818 : Disconnecting
+20160610-14:15:54.504 : Created session
+20160610-14:15:56.608 : Received logon request
+20160610-14:15:56.608 : Responding to logon request
+20160610-14:15:57.608 : Received logout request
+20160610-14:15:57.608 : Sending logout response
+20160610-14:15:57.608 : Disconnecting
+20160610-14:16:46.235 : Created session
+20160610-14:16:47.669 : Received logon request
+20160610-14:16:47.670 : Responding to logon request
+20160610-14:16:48.670 : Received logout request
+20160610-14:16:48.671 : Sending logout response
+20160610-14:16:48.671 : Disconnecting
+20160610-14:17:50.777 : Created session
+20160610-14:17:51.936 : Received logon request
+20160610-14:17:51.936 : Responding to logon request
+20160610-14:17:52.937 : Received logout request
+20160610-14:17:52.937 : Sending logout response
+20160610-14:17:52.937 : Disconnecting
+20160610-14:19:11.471 : Created session
+20160610-14:19:13.878 : Received logon request
+20160610-14:19:13.878 : Responding to logon request
+20160610-14:19:14.879 : Received logout request
+20160610-14:19:14.879 : Sending logout response
+20160610-14:19:14.879 : Disconnecting
+20160610-14:19:55.581 : Received logon request
+20160610-14:19:55.581 : Responding to logon request
+20160610-14:19:56.582 : Received logout request
+20160610-14:19:56.582 : Sending logout response
+20160610-14:19:56.582 : Disconnecting
+20160610-15:33:29.931 : Created session
+20160610-15:46:25.793 : Created session
+20160610-15:55:50.430 : Created session
+20160610-16:00:13.314 : Created session
+20160610-16:00:16.970 : Received logon request
+20160610-16:00:16.970 : Responding to logon request
+20160610-16:01:59.790 : Created session
+20160610-16:02:03.219 : Received logon request
+20160610-16:02:03.219 : Responding to logon request
+20160610-16:02:03.219 : MsgSeqNum too high, expecting 29 but received 30
+20160610-16:02:03.219 : Sent ResendRequest FROM: 29 TO: 999999
+20160610-16:02:03.219 : ResendRequest for messages FROM: 29 TO: 29 has been satisfied.
+20160610-16:03:01.216 : Created session
+20160610-16:03:02.127 : Received logon request
+20160610-16:03:02.127 : Responding to logon request
+20160610-16:03:02.127 : MsgSeqNum too high, expecting 29 but received 32
+20160610-16:03:02.127 : Sent ResendRequest FROM: 29 TO: 999999
+20160610-16:03:40.843 : Created session
+20160610-16:03:42.099 : Received logon request
+20160610-16:03:42.099 : Responding to logon request
+20160610-16:03:42.099 : MsgSeqNum too high, expecting 29 but received 34
+20160610-16:03:42.099 : Sent ResendRequest FROM: 29 TO: 999999
+20160610-16:04:02.819 : Created session
+20160610-16:04:04.071 : Received logon request
+20160610-16:04:04.071 : Responding to logon request
+20160610-16:04:04.071 : MsgSeqNum too high, expecting 29 but received 36
+20160610-16:04:04.071 : Sent ResendRequest FROM: 29 TO: 999999
+20160610-16:04:21.474 : Created session
+20160610-16:04:22.683 : Received logon request
+20160610-16:04:22.683 : Responding to logon request
+20160610-16:04:22.683 : MsgSeqNum too high, expecting 29 but received 38
+20160610-16:04:22.683 : Sent ResendRequest FROM: 29 TO: 999999
+20160610-16:04:45.017 : Created session
+20160610-16:04:47.416 : Received logon request
+20160610-16:04:47.416 : Responding to logon request
+20160610-16:04:47.416 : MsgSeqNum too high, expecting 29 but received 40
+20160610-16:04:47.416 : Sent ResendRequest FROM: 29 TO: 999999
+20160610-16:04:47.454 : Received SequenceReset FROM: 30 TO: 31
+20160610-16:04:47.459 : Received SequenceReset FROM: 32 TO: 33
+20160610-16:04:47.462 : Received SequenceReset FROM: 34 TO: 35
+20160610-16:04:47.464 : Received SequenceReset FROM: 36 TO: 37
+20160610-16:04:47.466 : Received SequenceReset FROM: 38 TO: 39
+20160610-16:04:47.466 : ResendRequest for messages FROM: 29 TO: 39 has been satisfied.
+20160610-16:04:47.468 : Processing QUEUED message: 40
+20160610-16:04:48.418 : Received logout request
+20160610-16:04:48.418 : Sending logout response
+20160610-16:04:48.418 : Disconnecting
+20160610-16:06:20.997 : Created session
+20160610-16:06:23.486 : Received logon request
+20160610-16:06:23.486 : Responding to logon request
+20160610-16:06:49.010 : Created session
+20160610-16:06:49.725 : Received logon request
+20160610-16:06:49.725 : Responding to logon request
+20160610-16:06:49.725 : MsgSeqNum too high, expecting 44 but received 45
+20160610-16:06:49.725 : Sent ResendRequest FROM: 44 TO: 999999
+20160610-16:06:49.725 : ResendRequest for messages FROM: 44 TO: 44 has been satisfied.
+20160610-16:06:49.729 : Processing QUEUED message: 45
+20160610-16:06:50.726 : Received logout request
+20160610-16:06:50.726 : Sending logout response
+20160610-16:06:50.726 : Disconnecting
+20160610-16:14:31.939 : Created session
+20160610-16:14:32.771 : Received logon request
+20160610-16:14:32.771 : Responding to logon request
+20160610-16:14:33.772 : Received logout request
+20160610-16:14:33.772 : Sending logout response
+20160610-16:14:33.772 : Disconnecting
+20160610-16:15:00.023 : Created session
+20160610-16:15:01.105 : Received logon request
+20160610-16:15:01.105 : Responding to logon request
+20160610-16:15:02.106 : Received logout request
+20160610-16:15:02.106 : Sending logout response
+20160610-16:15:02.106 : Disconnecting
+20160610-16:15:34.057 : Created session
+20160610-16:15:34.855 : Received logon request
+20160610-16:15:34.855 : Responding to logon request
+20160610-16:15:35.855 : Received logout request
+20160610-16:15:35.856 : Sending logout response
+20160610-16:15:35.856 : Disconnecting
+20160610-16:17:17.139 : Created session
+20160610-16:17:18.607 : Received logon request
+20160610-16:17:18.607 : Responding to logon request
+20160610-16:17:19.607 : Received logout request
+20160610-16:17:19.608 : Sending logout response
+20160610-16:17:19.608 : Disconnecting
+20160610-16:18:59.424 : Created session
+20160610-16:19:00.662 : Received logon request
+20160610-16:19:00.662 : Responding to logon request
+20160610-16:19:01.663 : Received logout request
+20160610-16:19:01.663 : Sending logout response
+20160610-16:19:01.663 : Disconnecting
+20160610-16:19:46.901 : Created session
+20160610-16:19:47.777 : Received logon request
+20160610-16:19:47.777 : Responding to logon request
+20160610-16:19:48.778 : Received logout request
+20160610-16:19:48.778 : Sending logout response
+20160610-16:19:48.778 : Disconnecting
